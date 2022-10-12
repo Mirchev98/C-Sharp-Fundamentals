@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\08. Array Modifier\bin\Debug\net5.0\08. Array Modifier.exe
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\08. Array Modifier\bin\Debug\net5.0\08. Array Modifier.deps.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\08. Array Modifier\bin\Debug\net5.0\08. Array Modifier.runtimeconfig.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\08. Array Modifier\bin\Debug\net5.0\08. Array Modifier.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\08. Array Modifier\bin\Debug\net5.0\08. Array Modifier.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\08. Array Modifier\bin\Debug\net5.0\08. Array Modifier.pdb
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\08. Array Modifier\obj\Debug\net5.0\08. Array Modifier.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\08. Array Modifier\obj\Debug\net5.0\08. Array Modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\08. Array Modifier\obj\Debug\net5.0\08. Array Modifier.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\08. Array Modifier\obj\Debug\net5.0\08. Array Modifier.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\08. Array Modifier\obj\Debug\net5.0\08. Array Modifier.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\08. Array Modifier\obj\Debug\net5.0\08. Array Modifier.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\08. Array Modifier\obj\Debug\net5.0\refint\08. Array Modifier.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\08. Array Modifier\obj\Debug\net5.0\08. Array Modifier.pdb
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\08. Array Modifier\obj\Debug\net5.0\08. Array Modifier.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\08. Array Modifier\obj\Debug\net5.0\ref\08. Array Modifier.dll

@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\07. SoftUni Reception\bin\Debug\net5.0\07. SoftUni Reception.exe
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\07. SoftUni Reception\bin\Debug\net5.0\07. SoftUni Reception.deps.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\07. SoftUni Reception\bin\Debug\net5.0\07. SoftUni Reception.runtimeconfig.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\07. SoftUni Reception\bin\Debug\net5.0\07. SoftUni Reception.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\07. SoftUni Reception\bin\Debug\net5.0\07. SoftUni Reception.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\07. SoftUni Reception\bin\Debug\net5.0\07. SoftUni Reception.pdb
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\07. SoftUni Reception\obj\Debug\net5.0\07. SoftUni Reception.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\07. SoftUni Reception\obj\Debug\net5.0\07. SoftUni Reception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\07. SoftUni Reception\obj\Debug\net5.0\07. SoftUni Reception.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\07. SoftUni Reception\obj\Debug\net5.0\07. SoftUni Reception.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\07. SoftUni Reception\obj\Debug\net5.0\07. SoftUni Reception.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\07. SoftUni Reception\obj\Debug\net5.0\07. SoftUni Reception.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\07. SoftUni Reception\obj\Debug\net5.0\refint\07. SoftUni Reception.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\07. SoftUni Reception\obj\Debug\net5.0\07. SoftUni Reception.pdb
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\07. SoftUni Reception\obj\Debug\net5.0\07. SoftUni Reception.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\07. SoftUni Reception\obj\Debug\net5.0\ref\07. SoftUni Reception.dll

@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04. Computer Store\bin\Debug\net5.0\04. Computer Store.exe
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04. Computer Store\bin\Debug\net5.0\04. Computer Store.deps.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04. Computer Store\bin\Debug\net5.0\04. Computer Store.runtimeconfig.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04. Computer Store\bin\Debug\net5.0\04. Computer Store.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04. Computer Store\bin\Debug\net5.0\04. Computer Store.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04. Computer Store\bin\Debug\net5.0\04. Computer Store.pdb
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04. Computer Store\obj\Debug\net5.0\04. Computer Store.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04. Computer Store\obj\Debug\net5.0\04. Computer Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04. Computer Store\obj\Debug\net5.0\04. Computer Store.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04. Computer Store\obj\Debug\net5.0\04. Computer Store.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04. Computer Store\obj\Debug\net5.0\04. Computer Store.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04. Computer Store\obj\Debug\net5.0\04. Computer Store.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04. Computer Store\obj\Debug\net5.0\refint\04. Computer Store.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04. Computer Store\obj\Debug\net5.0\04. Computer Store.pdb
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04. Computer Store\obj\Debug\net5.0\04. Computer Store.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04. Computer Store\obj\Debug\net5.0\ref\04. Computer Store.dll

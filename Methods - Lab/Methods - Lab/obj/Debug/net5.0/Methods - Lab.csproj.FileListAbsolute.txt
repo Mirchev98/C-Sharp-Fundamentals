@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\bin\Debug\net5.0\Methods - Lab.exe
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\bin\Debug\net5.0\Methods - Lab.deps.json
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\bin\Debug\net5.0\Methods - Lab.runtimeconfig.json
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\bin\Debug\net5.0\Methods - Lab.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\bin\Debug\net5.0\Methods - Lab.dll
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\bin\Debug\net5.0\Methods - Lab.pdb
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\obj\Debug\net5.0\Methods - Lab.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\obj\Debug\net5.0\Methods - Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\obj\Debug\net5.0\Methods - Lab.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\obj\Debug\net5.0\Methods - Lab.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\obj\Debug\net5.0\Methods - Lab.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\obj\Debug\net5.0\Methods - Lab.dll
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\obj\Debug\net5.0\refint\Methods - Lab.dll
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\obj\Debug\net5.0\Methods - Lab.pdb
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\obj\Debug\net5.0\Methods - Lab.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\obj\Debug\net5.0\ref\Methods - Lab.dll

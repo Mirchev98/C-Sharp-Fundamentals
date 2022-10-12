@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Fundamentals Final Exam\Problem 1\bin\Debug\net5.0\Problem 1.exe
+C:\Users\mdmir\source\repos\Fundamentals Final Exam\Problem 1\bin\Debug\net5.0\Problem 1.deps.json
+C:\Users\mdmir\source\repos\Fundamentals Final Exam\Problem 1\bin\Debug\net5.0\Problem 1.runtimeconfig.json
+C:\Users\mdmir\source\repos\Fundamentals Final Exam\Problem 1\bin\Debug\net5.0\Problem 1.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Fundamentals Final Exam\Problem 1\bin\Debug\net5.0\Problem 1.dll
+C:\Users\mdmir\source\repos\Fundamentals Final Exam\Problem 1\bin\Debug\net5.0\Problem 1.pdb
+C:\Users\mdmir\source\repos\Fundamentals Final Exam\Problem 1\obj\Debug\net5.0\Problem 1.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Fundamentals Final Exam\Problem 1\obj\Debug\net5.0\Problem 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Fundamentals Final Exam\Problem 1\obj\Debug\net5.0\Problem 1.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Fundamentals Final Exam\Problem 1\obj\Debug\net5.0\Problem 1.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Fundamentals Final Exam\Problem 1\obj\Debug\net5.0\Problem 1.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Fundamentals Final Exam\Problem 1\obj\Debug\net5.0\Problem 1.dll
+C:\Users\mdmir\source\repos\Fundamentals Final Exam\Problem 1\obj\Debug\net5.0\refint\Problem 1.dll
+C:\Users\mdmir\source\repos\Fundamentals Final Exam\Problem 1\obj\Debug\net5.0\Problem 1.pdb
+C:\Users\mdmir\source\repos\Fundamentals Final Exam\Problem 1\obj\Debug\net5.0\Problem 1.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Fundamentals Final Exam\Problem 1\obj\Debug\net5.0\ref\Problem 1.dll

@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\05. Destination Mapper\bin\Debug\net5.0\05. Destination Mapper.exe
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\05. Destination Mapper\bin\Debug\net5.0\05. Destination Mapper.deps.json
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\05. Destination Mapper\bin\Debug\net5.0\05. Destination Mapper.runtimeconfig.json
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\05. Destination Mapper\bin\Debug\net5.0\05. Destination Mapper.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\05. Destination Mapper\bin\Debug\net5.0\05. Destination Mapper.dll
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\05. Destination Mapper\bin\Debug\net5.0\05. Destination Mapper.pdb
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\05. Destination Mapper\obj\Debug\net5.0\05. Destination Mapper.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\05. Destination Mapper\obj\Debug\net5.0\05. Destination Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\05. Destination Mapper\obj\Debug\net5.0\05. Destination Mapper.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\05. Destination Mapper\obj\Debug\net5.0\05. Destination Mapper.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\05. Destination Mapper\obj\Debug\net5.0\05. Destination Mapper.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\05. Destination Mapper\obj\Debug\net5.0\05. Destination Mapper.dll
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\05. Destination Mapper\obj\Debug\net5.0\refint\05. Destination Mapper.dll
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\05. Destination Mapper\obj\Debug\net5.0\05. Destination Mapper.pdb
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\05. Destination Mapper\obj\Debug\net5.0\05. Destination Mapper.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\05. Destination Mapper\obj\Debug\net5.0\ref\05. Destination Mapper.dll

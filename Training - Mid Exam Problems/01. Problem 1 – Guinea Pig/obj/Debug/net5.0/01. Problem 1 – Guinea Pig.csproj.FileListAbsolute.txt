@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\01. Problem 1 – Guinea Pig\bin\Debug\net5.0\01. Problem 1 – Guinea Pig.exe
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\01. Problem 1 – Guinea Pig\bin\Debug\net5.0\01. Problem 1 – Guinea Pig.deps.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\01. Problem 1 – Guinea Pig\bin\Debug\net5.0\01. Problem 1 – Guinea Pig.runtimeconfig.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\01. Problem 1 – Guinea Pig\bin\Debug\net5.0\01. Problem 1 – Guinea Pig.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\01. Problem 1 – Guinea Pig\bin\Debug\net5.0\01. Problem 1 – Guinea Pig.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\01. Problem 1 – Guinea Pig\bin\Debug\net5.0\01. Problem 1 – Guinea Pig.pdb
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\01. Problem 1 – Guinea Pig\obj\Debug\net5.0\01. Problem 1 – Guinea Pig.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\01. Problem 1 – Guinea Pig\obj\Debug\net5.0\01. Problem 1 – Guinea Pig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\01. Problem 1 – Guinea Pig\obj\Debug\net5.0\01. Problem 1 – Guinea Pig.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\01. Problem 1 – Guinea Pig\obj\Debug\net5.0\01. Problem 1 – Guinea Pig.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\01. Problem 1 – Guinea Pig\obj\Debug\net5.0\01. Problem 1 – Guinea Pig.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\01. Problem 1 – Guinea Pig\obj\Debug\net5.0\01. Problem 1 – Guinea Pig.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\01. Problem 1 – Guinea Pig\obj\Debug\net5.0\refint\01. Problem 1 – Guinea Pig.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\01. Problem 1 – Guinea Pig\obj\Debug\net5.0\01. Problem 1 – Guinea Pig.pdb
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\01. Problem 1 – Guinea Pig\obj\Debug\net5.0\01. Problem 1 – Guinea Pig.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\01. Problem 1 – Guinea Pig\obj\Debug\net5.0\ref\01. Problem 1 – Guinea Pig.dll

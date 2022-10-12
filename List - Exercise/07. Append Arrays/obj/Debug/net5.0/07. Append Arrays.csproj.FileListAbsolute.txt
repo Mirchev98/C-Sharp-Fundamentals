@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\List - Exercise\07. Append Arrays\bin\Debug\net5.0\07. Append Arrays.exe
+C:\Users\mdmir\source\repos\List - Exercise\07. Append Arrays\bin\Debug\net5.0\07. Append Arrays.deps.json
+C:\Users\mdmir\source\repos\List - Exercise\07. Append Arrays\bin\Debug\net5.0\07. Append Arrays.runtimeconfig.json
+C:\Users\mdmir\source\repos\List - Exercise\07. Append Arrays\bin\Debug\net5.0\07. Append Arrays.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\List - Exercise\07. Append Arrays\bin\Debug\net5.0\07. Append Arrays.dll
+C:\Users\mdmir\source\repos\List - Exercise\07. Append Arrays\bin\Debug\net5.0\07. Append Arrays.pdb
+C:\Users\mdmir\source\repos\List - Exercise\07. Append Arrays\obj\Debug\net5.0\07. Append Arrays.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\List - Exercise\07. Append Arrays\obj\Debug\net5.0\07. Append Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\List - Exercise\07. Append Arrays\obj\Debug\net5.0\07. Append Arrays.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\List - Exercise\07. Append Arrays\obj\Debug\net5.0\07. Append Arrays.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\List - Exercise\07. Append Arrays\obj\Debug\net5.0\07. Append Arrays.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\List - Exercise\07. Append Arrays\obj\Debug\net5.0\07. Append Arrays.dll
+C:\Users\mdmir\source\repos\List - Exercise\07. Append Arrays\obj\Debug\net5.0\refint\07. Append Arrays.dll
+C:\Users\mdmir\source\repos\List - Exercise\07. Append Arrays\obj\Debug\net5.0\07. Append Arrays.pdb
+C:\Users\mdmir\source\repos\List - Exercise\07. Append Arrays\obj\Debug\net5.0\07. Append Arrays.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\List - Exercise\07. Append Arrays\obj\Debug\net5.0\ref\07. Append Arrays.dll

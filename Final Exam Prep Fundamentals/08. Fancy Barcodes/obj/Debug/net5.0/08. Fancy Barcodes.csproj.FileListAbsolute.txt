@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\08. Fancy Barcodes\bin\Debug\net5.0\08. Fancy Barcodes.exe
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\08. Fancy Barcodes\bin\Debug\net5.0\08. Fancy Barcodes.deps.json
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\08. Fancy Barcodes\bin\Debug\net5.0\08. Fancy Barcodes.runtimeconfig.json
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\08. Fancy Barcodes\bin\Debug\net5.0\08. Fancy Barcodes.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\08. Fancy Barcodes\bin\Debug\net5.0\08. Fancy Barcodes.dll
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\08. Fancy Barcodes\bin\Debug\net5.0\08. Fancy Barcodes.pdb
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\08. Fancy Barcodes\obj\Debug\net5.0\08. Fancy Barcodes.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\08. Fancy Barcodes\obj\Debug\net5.0\08. Fancy Barcodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\08. Fancy Barcodes\obj\Debug\net5.0\08. Fancy Barcodes.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\08. Fancy Barcodes\obj\Debug\net5.0\08. Fancy Barcodes.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\08. Fancy Barcodes\obj\Debug\net5.0\08. Fancy Barcodes.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\08. Fancy Barcodes\obj\Debug\net5.0\08. Fancy Barcodes.dll
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\08. Fancy Barcodes\obj\Debug\net5.0\refint\08. Fancy Barcodes.dll
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\08. Fancy Barcodes\obj\Debug\net5.0\08. Fancy Barcodes.pdb
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\08. Fancy Barcodes\obj\Debug\net5.0\08. Fancy Barcodes.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\08. Fancy Barcodes\obj\Debug\net5.0\ref\08. Fancy Barcodes.dll

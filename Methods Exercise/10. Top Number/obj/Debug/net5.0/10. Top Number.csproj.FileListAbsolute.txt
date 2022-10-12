@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Methods Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.exe
+C:\Users\mdmir\source\repos\Methods Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.deps.json
+C:\Users\mdmir\source\repos\Methods Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.runtimeconfig.json
+C:\Users\mdmir\source\repos\Methods Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Methods Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.dll
+C:\Users\mdmir\source\repos\Methods Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.pdb
+C:\Users\mdmir\source\repos\Methods Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Methods Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Methods Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Methods Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Methods Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Methods Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.dll
+C:\Users\mdmir\source\repos\Methods Exercise\10. Top Number\obj\Debug\net5.0\refint\10. Top Number.dll
+C:\Users\mdmir\source\repos\Methods Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.pdb
+C:\Users\mdmir\source\repos\Methods Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Methods Exercise\10. Top Number\obj\Debug\net5.0\ref\10. Top Number.dll

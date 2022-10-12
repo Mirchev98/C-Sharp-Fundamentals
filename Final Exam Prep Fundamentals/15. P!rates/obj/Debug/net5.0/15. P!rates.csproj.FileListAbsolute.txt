@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\15. P!rates\bin\Debug\net5.0\15. P!rates.exe
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\15. P!rates\bin\Debug\net5.0\15. P!rates.deps.json
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\15. P!rates\bin\Debug\net5.0\15. P!rates.runtimeconfig.json
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\15. P!rates\bin\Debug\net5.0\15. P!rates.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\15. P!rates\bin\Debug\net5.0\15. P!rates.dll
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\15. P!rates\bin\Debug\net5.0\15. P!rates.pdb
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\15. P!rates\obj\Debug\net5.0\15. P!rates.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\15. P!rates\obj\Debug\net5.0\15. P!rates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\15. P!rates\obj\Debug\net5.0\15. P!rates.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\15. P!rates\obj\Debug\net5.0\15. P!rates.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\15. P!rates\obj\Debug\net5.0\15. P!rates.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\15. P!rates\obj\Debug\net5.0\15. P!rates.dll
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\15. P!rates\obj\Debug\net5.0\refint\15. P!rates.dll
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\15. P!rates\obj\Debug\net5.0\15. P!rates.pdb
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\15. P!rates\obj\Debug\net5.0\15. P!rates.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\15. P!rates\obj\Debug\net5.0\ref\15. P!rates.dll

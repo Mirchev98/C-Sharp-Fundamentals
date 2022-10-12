@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\09. Numbers\bin\Debug\net5.0\09. Numbers.exe
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\09. Numbers\bin\Debug\net5.0\09. Numbers.deps.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\09. Numbers\bin\Debug\net5.0\09. Numbers.runtimeconfig.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\09. Numbers\bin\Debug\net5.0\09. Numbers.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\09. Numbers\bin\Debug\net5.0\09. Numbers.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\09. Numbers\bin\Debug\net5.0\09. Numbers.pdb
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\09. Numbers\obj\Debug\net5.0\09. Numbers.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\09. Numbers\obj\Debug\net5.0\09. Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\09. Numbers\obj\Debug\net5.0\09. Numbers.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\09. Numbers\obj\Debug\net5.0\09. Numbers.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\09. Numbers\obj\Debug\net5.0\09. Numbers.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\09. Numbers\obj\Debug\net5.0\09. Numbers.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\09. Numbers\obj\Debug\net5.0\refint\09. Numbers.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\09. Numbers\obj\Debug\net5.0\09. Numbers.pdb
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\09. Numbers\obj\Debug\net5.0\09. Numbers.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\09. Numbers\obj\Debug\net5.0\ref\09. Numbers.dll

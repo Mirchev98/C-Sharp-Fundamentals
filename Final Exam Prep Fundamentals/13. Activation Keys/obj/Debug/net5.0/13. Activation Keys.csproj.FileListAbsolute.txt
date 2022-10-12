@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\13. Activation Keys\bin\Debug\net5.0\13. Activation Keys.exe
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\13. Activation Keys\bin\Debug\net5.0\13. Activation Keys.deps.json
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\13. Activation Keys\bin\Debug\net5.0\13. Activation Keys.runtimeconfig.json
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\13. Activation Keys\bin\Debug\net5.0\13. Activation Keys.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\13. Activation Keys\bin\Debug\net5.0\13. Activation Keys.dll
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\13. Activation Keys\bin\Debug\net5.0\13. Activation Keys.pdb
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\13. Activation Keys\obj\Debug\net5.0\13. Activation Keys.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\13. Activation Keys\obj\Debug\net5.0\13. Activation Keys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\13. Activation Keys\obj\Debug\net5.0\13. Activation Keys.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\13. Activation Keys\obj\Debug\net5.0\13. Activation Keys.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\13. Activation Keys\obj\Debug\net5.0\13. Activation Keys.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\13. Activation Keys\obj\Debug\net5.0\13. Activation Keys.dll
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\13. Activation Keys\obj\Debug\net5.0\refint\13. Activation Keys.dll
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\13. Activation Keys\obj\Debug\net5.0\13. Activation Keys.pdb
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\13. Activation Keys\obj\Debug\net5.0\13. Activation Keys.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\13. Activation Keys\obj\Debug\net5.0\ref\13. Activation Keys.dll

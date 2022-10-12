@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Fundamentals Mid Exam\02. Coffee Lover\bin\Debug\net5.0\02. Coffee Lover.exe
+C:\Users\mdmir\source\repos\Fundamentals Mid Exam\02. Coffee Lover\bin\Debug\net5.0\02. Coffee Lover.deps.json
+C:\Users\mdmir\source\repos\Fundamentals Mid Exam\02. Coffee Lover\bin\Debug\net5.0\02. Coffee Lover.runtimeconfig.json
+C:\Users\mdmir\source\repos\Fundamentals Mid Exam\02. Coffee Lover\bin\Debug\net5.0\02. Coffee Lover.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Fundamentals Mid Exam\02. Coffee Lover\bin\Debug\net5.0\02. Coffee Lover.dll
+C:\Users\mdmir\source\repos\Fundamentals Mid Exam\02. Coffee Lover\bin\Debug\net5.0\02. Coffee Lover.pdb
+C:\Users\mdmir\source\repos\Fundamentals Mid Exam\02. Coffee Lover\obj\Debug\net5.0\02. Coffee Lover.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Fundamentals Mid Exam\02. Coffee Lover\obj\Debug\net5.0\02. Coffee Lover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Fundamentals Mid Exam\02. Coffee Lover\obj\Debug\net5.0\02. Coffee Lover.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Fundamentals Mid Exam\02. Coffee Lover\obj\Debug\net5.0\02. Coffee Lover.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Fundamentals Mid Exam\02. Coffee Lover\obj\Debug\net5.0\02. Coffee Lover.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Fundamentals Mid Exam\02. Coffee Lover\obj\Debug\net5.0\02. Coffee Lover.dll
+C:\Users\mdmir\source\repos\Fundamentals Mid Exam\02. Coffee Lover\obj\Debug\net5.0\refint\02. Coffee Lover.dll
+C:\Users\mdmir\source\repos\Fundamentals Mid Exam\02. Coffee Lover\obj\Debug\net5.0\02. Coffee Lover.pdb
+C:\Users\mdmir\source\repos\Fundamentals Mid Exam\02. Coffee Lover\obj\Debug\net5.0\02. Coffee Lover.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Fundamentals Mid Exam\02. Coffee Lover\obj\Debug\net5.0\ref\02. Coffee Lover.dll

@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\11. Counter-Strike\bin\Debug\net5.0\11. Counter-Strike.exe
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\11. Counter-Strike\bin\Debug\net5.0\11. Counter-Strike.deps.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\11. Counter-Strike\bin\Debug\net5.0\11. Counter-Strike.runtimeconfig.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\11. Counter-Strike\bin\Debug\net5.0\11. Counter-Strike.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\11. Counter-Strike\bin\Debug\net5.0\11. Counter-Strike.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\11. Counter-Strike\bin\Debug\net5.0\11. Counter-Strike.pdb
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\11. Counter-Strike\obj\Debug\net5.0\11. Counter-Strike.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\11. Counter-Strike\obj\Debug\net5.0\11. Counter-Strike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\11. Counter-Strike\obj\Debug\net5.0\11. Counter-Strike.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\11. Counter-Strike\obj\Debug\net5.0\11. Counter-Strike.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\11. Counter-Strike\obj\Debug\net5.0\11. Counter-Strike.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\11. Counter-Strike\obj\Debug\net5.0\11. Counter-Strike.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\11. Counter-Strike\obj\Debug\net5.0\refint\11. Counter-Strike.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\11. Counter-Strike\obj\Debug\net5.0\11. Counter-Strike.pdb
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\11. Counter-Strike\obj\Debug\net5.0\11. Counter-Strike.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\11. Counter-Strike\obj\Debug\net5.0\ref\11. Counter-Strike.dll

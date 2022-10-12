@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\01. Reverse Strings\Strings and Text Processing\bin\Debug\net5.0\01. Reverse Strings.exe
+C:\Users\mdmir\source\repos\01. Reverse Strings\Strings and Text Processing\bin\Debug\net5.0\01. Reverse Strings.deps.json
+C:\Users\mdmir\source\repos\01. Reverse Strings\Strings and Text Processing\bin\Debug\net5.0\01. Reverse Strings.runtimeconfig.json
+C:\Users\mdmir\source\repos\01. Reverse Strings\Strings and Text Processing\bin\Debug\net5.0\01. Reverse Strings.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\01. Reverse Strings\Strings and Text Processing\bin\Debug\net5.0\01. Reverse Strings.dll
+C:\Users\mdmir\source\repos\01. Reverse Strings\Strings and Text Processing\bin\Debug\net5.0\01. Reverse Strings.pdb
+C:\Users\mdmir\source\repos\01. Reverse Strings\Strings and Text Processing\obj\Debug\net5.0\01. Reverse Strings.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\01. Reverse Strings\Strings and Text Processing\obj\Debug\net5.0\01. Reverse Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\01. Reverse Strings\Strings and Text Processing\obj\Debug\net5.0\01. Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\01. Reverse Strings\Strings and Text Processing\obj\Debug\net5.0\01. Reverse Strings.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\01. Reverse Strings\Strings and Text Processing\obj\Debug\net5.0\01. Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\01. Reverse Strings\Strings and Text Processing\obj\Debug\net5.0\01. Reverse Strings.dll
+C:\Users\mdmir\source\repos\01. Reverse Strings\Strings and Text Processing\obj\Debug\net5.0\refint\01. Reverse Strings.dll
+C:\Users\mdmir\source\repos\01. Reverse Strings\Strings and Text Processing\obj\Debug\net5.0\01. Reverse Strings.pdb
+C:\Users\mdmir\source\repos\01. Reverse Strings\Strings and Text Processing\obj\Debug\net5.0\01. Reverse Strings.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\01. Reverse Strings\Strings and Text Processing\obj\Debug\net5.0\ref\01. Reverse Strings.dll

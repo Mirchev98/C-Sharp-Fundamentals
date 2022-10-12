@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\06. Plant Discovery\bin\Debug\net5.0\06. Plant Discovery.exe
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\06. Plant Discovery\bin\Debug\net5.0\06. Plant Discovery.deps.json
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\06. Plant Discovery\bin\Debug\net5.0\06. Plant Discovery.runtimeconfig.json
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\06. Plant Discovery\bin\Debug\net5.0\06. Plant Discovery.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\06. Plant Discovery\bin\Debug\net5.0\06. Plant Discovery.dll
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\06. Plant Discovery\bin\Debug\net5.0\06. Plant Discovery.pdb
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\06. Plant Discovery\obj\Debug\net5.0\06. Plant Discovery.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\06. Plant Discovery\obj\Debug\net5.0\06. Plant Discovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\06. Plant Discovery\obj\Debug\net5.0\06. Plant Discovery.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\06. Plant Discovery\obj\Debug\net5.0\06. Plant Discovery.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\06. Plant Discovery\obj\Debug\net5.0\06. Plant Discovery.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\06. Plant Discovery\obj\Debug\net5.0\06. Plant Discovery.dll
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\06. Plant Discovery\obj\Debug\net5.0\refint\06. Plant Discovery.dll
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\06. Plant Discovery\obj\Debug\net5.0\06. Plant Discovery.pdb
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\06. Plant Discovery\obj\Debug\net5.0\06. Plant Discovery.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\06. Plant Discovery\obj\Debug\net5.0\ref\06. Plant Discovery.dll

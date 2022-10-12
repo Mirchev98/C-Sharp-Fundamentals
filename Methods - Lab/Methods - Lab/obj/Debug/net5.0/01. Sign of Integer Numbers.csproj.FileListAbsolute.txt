@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\bin\Debug\net5.0\01. Sign of Integer Numbers.exe
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\bin\Debug\net5.0\01. Sign of Integer Numbers.deps.json
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\bin\Debug\net5.0\01. Sign of Integer Numbers.runtimeconfig.json
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\bin\Debug\net5.0\01. Sign of Integer Numbers.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\bin\Debug\net5.0\01. Sign of Integer Numbers.dll
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\bin\Debug\net5.0\01. Sign of Integer Numbers.pdb
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\obj\Debug\net5.0\01. Sign of Integer Numbers.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\obj\Debug\net5.0\01. Sign of Integer Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\obj\Debug\net5.0\01. Sign of Integer Numbers.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\obj\Debug\net5.0\01. Sign of Integer Numbers.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\obj\Debug\net5.0\01. Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\obj\Debug\net5.0\01. Sign of Integer Numbers.dll
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\obj\Debug\net5.0\refint\01. Sign of Integer Numbers.dll
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\obj\Debug\net5.0\01. Sign of Integer Numbers.pdb
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\obj\Debug\net5.0\01. Sign of Integer Numbers.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Methods - Lab\Methods - Lab\obj\Debug\net5.0\ref\01. Sign of Integer Numbers.dll

@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Methods Exercise\Methods Exercise\bin\Debug\net5.0\01. Smallest of Three Numbers.exe
+C:\Users\mdmir\source\repos\Methods Exercise\Methods Exercise\bin\Debug\net5.0\01. Smallest of Three Numbers.deps.json
+C:\Users\mdmir\source\repos\Methods Exercise\Methods Exercise\bin\Debug\net5.0\01. Smallest of Three Numbers.runtimeconfig.json
+C:\Users\mdmir\source\repos\Methods Exercise\Methods Exercise\bin\Debug\net5.0\01. Smallest of Three Numbers.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Methods Exercise\Methods Exercise\bin\Debug\net5.0\01. Smallest of Three Numbers.dll
+C:\Users\mdmir\source\repos\Methods Exercise\Methods Exercise\bin\Debug\net5.0\01. Smallest of Three Numbers.pdb
+C:\Users\mdmir\source\repos\Methods Exercise\Methods Exercise\obj\Debug\net5.0\01. Smallest of Three Numbers.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Methods Exercise\Methods Exercise\obj\Debug\net5.0\01. Smallest of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Methods Exercise\Methods Exercise\obj\Debug\net5.0\01. Smallest of Three Numbers.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Methods Exercise\Methods Exercise\obj\Debug\net5.0\01. Smallest of Three Numbers.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Methods Exercise\Methods Exercise\obj\Debug\net5.0\01. Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Methods Exercise\Methods Exercise\obj\Debug\net5.0\01. Smallest of Three Numbers.dll
+C:\Users\mdmir\source\repos\Methods Exercise\Methods Exercise\obj\Debug\net5.0\refint\01. Smallest of Three Numbers.dll
+C:\Users\mdmir\source\repos\Methods Exercise\Methods Exercise\obj\Debug\net5.0\01. Smallest of Three Numbers.pdb
+C:\Users\mdmir\source\repos\Methods Exercise\Methods Exercise\obj\Debug\net5.0\01. Smallest of Three Numbers.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Methods Exercise\Methods Exercise\obj\Debug\net5.0\ref\01. Smallest of Three Numbers.dll

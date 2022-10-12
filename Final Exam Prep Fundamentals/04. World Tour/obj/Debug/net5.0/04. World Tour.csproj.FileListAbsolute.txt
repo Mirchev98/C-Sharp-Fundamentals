@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\04. World Tour\bin\Debug\net5.0\04. World Tour.exe
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\04. World Tour\bin\Debug\net5.0\04. World Tour.deps.json
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\04. World Tour\bin\Debug\net5.0\04. World Tour.runtimeconfig.json
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\04. World Tour\bin\Debug\net5.0\04. World Tour.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\04. World Tour\bin\Debug\net5.0\04. World Tour.dll
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\04. World Tour\bin\Debug\net5.0\04. World Tour.pdb
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\04. World Tour\obj\Debug\net5.0\04. World Tour.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\04. World Tour\obj\Debug\net5.0\04. World Tour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\04. World Tour\obj\Debug\net5.0\04. World Tour.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\04. World Tour\obj\Debug\net5.0\04. World Tour.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\04. World Tour\obj\Debug\net5.0\04. World Tour.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\04. World Tour\obj\Debug\net5.0\04. World Tour.dll
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\04. World Tour\obj\Debug\net5.0\refint\04. World Tour.dll
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\04. World Tour\obj\Debug\net5.0\04. World Tour.pdb
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\04. World Tour\obj\Debug\net5.0\04. World Tour.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Final Exam Prep Fundamentals\04. World Tour\obj\Debug\net5.0\ref\04. World Tour.dll

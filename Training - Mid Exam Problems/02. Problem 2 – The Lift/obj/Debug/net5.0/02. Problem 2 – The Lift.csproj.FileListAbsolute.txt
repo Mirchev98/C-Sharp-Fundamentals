@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\02. Problem 2 – The Lift\bin\Debug\net5.0\02. Problem 2 – The Lift.exe
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\02. Problem 2 – The Lift\bin\Debug\net5.0\02. Problem 2 – The Lift.deps.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\02. Problem 2 – The Lift\bin\Debug\net5.0\02. Problem 2 – The Lift.runtimeconfig.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\02. Problem 2 – The Lift\bin\Debug\net5.0\02. Problem 2 – The Lift.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\02. Problem 2 – The Lift\bin\Debug\net5.0\02. Problem 2 – The Lift.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\02. Problem 2 – The Lift\bin\Debug\net5.0\02. Problem 2 – The Lift.pdb
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\02. Problem 2 – The Lift\obj\Debug\net5.0\02. Problem 2 – The Lift.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\02. Problem 2 – The Lift\obj\Debug\net5.0\02. Problem 2 – The Lift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\02. Problem 2 – The Lift\obj\Debug\net5.0\02. Problem 2 – The Lift.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\02. Problem 2 – The Lift\obj\Debug\net5.0\02. Problem 2 – The Lift.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\02. Problem 2 – The Lift\obj\Debug\net5.0\02. Problem 2 – The Lift.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\02. Problem 2 – The Lift\obj\Debug\net5.0\02. Problem 2 – The Lift.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\02. Problem 2 – The Lift\obj\Debug\net5.0\refint\02. Problem 2 – The Lift.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\02. Problem 2 – The Lift\obj\Debug\net5.0\02. Problem 2 – The Lift.pdb
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\02. Problem 2 – The Lift\obj\Debug\net5.0\02. Problem 2 – The Lift.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\02. Problem 2 – The Lift\obj\Debug\net5.0\ref\02. Problem 2 – The Lift.dll

@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\14. Bonus Scoring System\bin\Debug\net5.0\14. Bonus Scoring System.exe
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\14. Bonus Scoring System\bin\Debug\net5.0\14. Bonus Scoring System.deps.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\14. Bonus Scoring System\bin\Debug\net5.0\14. Bonus Scoring System.runtimeconfig.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\14. Bonus Scoring System\bin\Debug\net5.0\14. Bonus Scoring System.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\14. Bonus Scoring System\bin\Debug\net5.0\14. Bonus Scoring System.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\14. Bonus Scoring System\bin\Debug\net5.0\14. Bonus Scoring System.pdb
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\14. Bonus Scoring System\obj\Debug\net5.0\14. Bonus Scoring System.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\14. Bonus Scoring System\obj\Debug\net5.0\14. Bonus Scoring System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\14. Bonus Scoring System\obj\Debug\net5.0\14. Bonus Scoring System.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\14. Bonus Scoring System\obj\Debug\net5.0\14. Bonus Scoring System.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\14. Bonus Scoring System\obj\Debug\net5.0\14. Bonus Scoring System.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\14. Bonus Scoring System\obj\Debug\net5.0\14. Bonus Scoring System.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\14. Bonus Scoring System\obj\Debug\net5.0\refint\14. Bonus Scoring System.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\14. Bonus Scoring System\obj\Debug\net5.0\14. Bonus Scoring System.pdb
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\14. Bonus Scoring System\obj\Debug\net5.0\14. Bonus Scoring System.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\14. Bonus Scoring System\obj\Debug\net5.0\ref\14. Bonus Scoring System.dll

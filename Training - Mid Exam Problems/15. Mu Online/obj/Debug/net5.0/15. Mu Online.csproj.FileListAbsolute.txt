@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\15. Mu Online\bin\Debug\net5.0\15. Mu Online.exe
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\15. Mu Online\bin\Debug\net5.0\15. Mu Online.deps.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\15. Mu Online\bin\Debug\net5.0\15. Mu Online.runtimeconfig.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\15. Mu Online\bin\Debug\net5.0\15. Mu Online.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\15. Mu Online\bin\Debug\net5.0\15. Mu Online.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\15. Mu Online\bin\Debug\net5.0\15. Mu Online.pdb
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\15. Mu Online\obj\Debug\net5.0\15. Mu Online.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\15. Mu Online\obj\Debug\net5.0\15. Mu Online.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\15. Mu Online\obj\Debug\net5.0\15. Mu Online.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\15. Mu Online\obj\Debug\net5.0\15. Mu Online.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\15. Mu Online\obj\Debug\net5.0\15. Mu Online.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\15. Mu Online\obj\Debug\net5.0\15. Mu Online.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\15. Mu Online\obj\Debug\net5.0\refint\15. Mu Online.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\15. Mu Online\obj\Debug\net5.0\15. Mu Online.pdb
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\15. Mu Online\obj\Debug\net5.0\15. Mu Online.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\15. Mu Online\obj\Debug\net5.0\ref\15. Mu Online.dll

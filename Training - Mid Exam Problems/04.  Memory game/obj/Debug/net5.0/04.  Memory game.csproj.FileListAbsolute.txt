@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04.  Memory game\bin\Debug\net5.0\04.  Memory game.exe
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04.  Memory game\bin\Debug\net5.0\04.  Memory game.deps.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04.  Memory game\bin\Debug\net5.0\04.  Memory game.runtimeconfig.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04.  Memory game\bin\Debug\net5.0\04.  Memory game.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04.  Memory game\bin\Debug\net5.0\04.  Memory game.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04.  Memory game\bin\Debug\net5.0\04.  Memory game.pdb
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04.  Memory game\obj\Debug\net5.0\04.  Memory game.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04.  Memory game\obj\Debug\net5.0\04.  Memory game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04.  Memory game\obj\Debug\net5.0\04.  Memory game.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04.  Memory game\obj\Debug\net5.0\04.  Memory game.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04.  Memory game\obj\Debug\net5.0\04.  Memory game.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04.  Memory game\obj\Debug\net5.0\04.  Memory game.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04.  Memory game\obj\Debug\net5.0\refint\04.  Memory game.dll
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04.  Memory game\obj\Debug\net5.0\04.  Memory game.pdb
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04.  Memory game\obj\Debug\net5.0\04.  Memory game.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Training - Mid Exam Problems\04.  Memory game\obj\Debug\net5.0\ref\04.  Memory game.dll
